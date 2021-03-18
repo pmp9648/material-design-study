@@ -66,3 +66,14 @@ Icons, type, and some elements within components can align to a 4dp grid.
 ## Applying Colors to UI
 
 ### Top and Bottom App Bars
+Top and Bottom app bar uses primary color
+System bar uses a lighter of dark variant of the primary color
+
+![color-primary](.\pictures\color-1.png)
+
+To Emphasize the difference between app-bars and other surfaces, use a secondary color 
+
+![color-secondary](.\pictures\color-2.png)
+
+Do: Apply a secondary color to a floating action button.  If you are going to apply a primary color to an action button, make sure it has a shadow
+
